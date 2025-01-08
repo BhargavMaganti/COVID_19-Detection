@@ -1,8 +1,4 @@
 # COVID-19_Detection
-Official Repository for <b>A Novel Approach for detecting Normal, COVID-19 and Pneumonia patient using only binary classifications from chest CT-Scans.</b>
-
-Link to paper - [Click here](https://www.sciencedirect.com/science/article/pii/S2772528622000310)
-
 
 Link to dataset - [Click here](https://www.kaggle.com/datasets/hgunraj/covidxct)
 
